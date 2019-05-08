@@ -1,3 +1,7 @@
-This is a line of stuff
-This will appear on the same line
-This should not.
+. . . . . X . .
+. . . . . X . .
+. . . . . X . .
+. . . . . X . .
+. . X . . . . .
+. . X . . . . .
+. . . . X X X .
